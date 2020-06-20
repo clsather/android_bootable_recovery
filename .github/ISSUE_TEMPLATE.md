@@ -1,7 +1,7 @@
-- [ ] I am running an official build of TWRP, downloaded from https://twrp.me/Devices/
-- [ ] I am running the latest version of TWRP
-- [ ] I have read the FAQ (https://twrp.me/FAQ/)
-- [ ] I have searched for my issue and it does not already exist
+- [x ] I am running an official build of TWRP, downloaded from https://twrp.me/Devices/
+- [x ] I am running the latest version of TWRP
+- [x] I have read the FAQ (https://twrp.me/FAQ/)
+- [x ] I have searched for my issue and it does not already exist
 
 **Device codename**: <!-- Device codename -->
 **TWRP version**: <!-- TWRP version installed -->
